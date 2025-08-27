@@ -1,4 +1,4 @@
-# 📘 Data Science Cheat Sheets – Jupyter Notebook Collection
+# Machine Learning Things
 
 This repository contains **hands-on Jupyter Notebook examples** for the most commonly used Python libraries in **Data Science and Machine Learning**. Each library section is based on official cheat sheets and contains **ready-to-run code cells** for quick reference and practice.
 
