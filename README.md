@@ -43,23 +43,3 @@ This repository contains **hands-on Jupyter Notebook examples** for the most com
    * Cross-validation and hyperparameter tuning
 
 ---
-
-
-
-## 🎯 Use Case
-
-* 📖 Quick reference for **students & professionals**
-* 🧪 Hands-on practice while learning Data Science
-* 💡 Starter templates for **ML projects & Kaggle competitions**
-
----
-
-## 🙌 Credits
-
-* Cheat sheets adapted from **DataCamp** + official docs
-* Converted into **Jupyter-ready notebooks** for easy learning
-
----
-
-🔥 With this repo, you don’t just learn — you **practice instantly** inside Jupyter.
-Think of it as your **Data Science Swiss Army Knife** 🏆⚡.
